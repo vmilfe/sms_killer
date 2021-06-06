@@ -1,6 +1,8 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
-# Spymer
-SMS-спамер<br>
+# SMS_KILLER
+
+![Programm Image](https://cybersec.org/wp-content/uploads/2021/05/smsbomber-815x570.jpg)
+
 Только для России!<br><i>(но можете попробовать и для Украины или Казахстана)</i><br>
 Новости об обновлениях ы <a href="https://t.me/sms_killer">чате в Telegram</a><br>
 # Как установить?
@@ -20,7 +22,7 @@ SMS-спамер<br>
 • <code>sh ~/sms_killer/install.sh</code><br>
 • <code>spymer</code><br>
 <br>
-Установка на Linux аналогична установке на Android, только без Termux'a, достаточно прав SU и терминала.<br>
+Установка на Linux аналогична установке на Android, только без Termux'a, достаточно терминала.<br>
 <br><br>
 # Наш сайт
 <h3>smskiller.tshelte.ru
