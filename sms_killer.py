@@ -604,12 +604,12 @@ while True:
         ghj = input(Fore.WHITE + '[' + Fore.GREEN + '1' + Fore.WHITE + '] - написать админу\n'+Fore.WHITE + '[' + Fore.GREEN + '2' + Fore.WHITE + '] - выйти\n'+Fore.RED + 'sms_killer/money' + Fore.WHITE + '>> ')
         if ghj == '1':
             print(Fore.GREEN+'Открываю админа')
-            system('termux-open-url t.me/botnet_master')
+            system('termux-open-url https://t.me/botnet_master')
     elif menua == 6:
         print('Перейти в чат поддержки?')
         joi = input(Fore.WHITE + '[' + Fore.GREEN + '1' + Fore.WHITE + '] - да\n'+Fore.WHITE + '[' + Fore.GREEN + '2' + Fore.WHITE + '] - нет\n'+Fore.RED + 'sms_killer/help' + Fore.WHITE + '>> ')
         if joi == '1':
-            system('termux-open-url t.me/sms_killer')
+            system('termux-open-url https://t.me/sms_killer')
         else:
             pass
     elif menua == 4:
