@@ -646,4 +646,4 @@ while True:
             system("cls" if name == "nt" else "clear")
     else:
         system("cls" if name == "nt" else "clear")
-        system('cls')
+        system('clear')
