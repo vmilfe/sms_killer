@@ -25,4 +25,4 @@
 Установка на Linux аналогична установке на Android, только без Termux'a, достаточно терминала.<br>
 <br><br>
 # Наш сайт
-<h3>smskiller.tshelte.ru
+<h3>https://smskiller.tshelte.ru
