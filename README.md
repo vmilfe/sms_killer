@@ -4,7 +4,7 @@
 ![Programm Image](https://cybersec.org/wp-content/uploads/2021/05/smsbomber-815x570.jpg)
 
 Только для России!<br><i>(но можете попробовать и для Украины или Казахстана)</i><br>
-Новости об обновлениях в <a href="https://t.me/sms_killer">чате в Telegram</a><br>
+Новости об обновлениях в <a href="https://t.me/sms_killer_chat">чате в Telegram</a><br>
 # Как установить?
 <b>Тупо следуйте инструкции...</b><br>
 <b>Если у вас Android/<b> - скачать <a href="https://play.google.com/store/apps/details?id=com.termux&hl=ru">Termux из Google Play</a>, открыть его и прописать команды ниже:<br>
