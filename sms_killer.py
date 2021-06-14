@@ -609,7 +609,7 @@ while True:
         print('Перейти в чат поддержки?')
         joi = input(Fore.WHITE + '[' + Fore.GREEN + '1' + Fore.WHITE + '] - да\n'+Fore.WHITE + '[' + Fore.GREEN + '2' + Fore.WHITE + '] - нет\n'+Fore.RED + 'sms_killer/help' + Fore.WHITE + '>> ')
         if joi == '1':
-            system('termux-open-url https://t.me/sms_killer')
+            system('termux-open-url https://t.me/sms_killer_chat')
         else:
             pass
     elif menua == 4:
