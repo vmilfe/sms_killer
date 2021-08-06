@@ -6,6 +6,6 @@ testfunction(){
    pip3 install colorama
    pip3 install requests
    pip3 install fake_headers
-   python3 sms_killer.py
+   python3 whoa.py
 }
 testfunction
