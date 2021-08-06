@@ -19,7 +19,7 @@
 • <code>apt install git</code><br>
 • <code>git clone https://github.com/ilyargat/sms_killer</code><br>
 • <code>sh ~/sms_killer/install.sh</code><br>
-• <code>cd sms_killer && python3 sms_killer.py</code><br>
+• <code>cd sms_killer && python3 whoa.py</code><br>
   
 <b>Если у Вас iOS</a> - скачайте <a href="https://apps.apple.com/ru/app/testflight/id899247664">Testflight из App Store</a>, присоеденитись к beta-тестированию <a href="https://testflight.apple.com/join/97i7KM8O">iSH в Testflight</a> и пропишите команды ниже:</b><br>
 
@@ -28,7 +28,7 @@
 • <code>apk add git</code><br>
 • <code>git clone https://github.com/ilyargat/sms_killer</code><br>
 • <code>sh ~/sms_killer/install.sh</code><br>
-• <code>cd sms_killer && python3 sms_killer.py</code><br>
+• <code>cd sms_killer && python3 whoa.py</code><br>
 <br>
 
 <b>Если у Вас Linux откройте Terminal и пропишите следующие команды ниже:</b><br>
@@ -39,7 +39,7 @@
 • <code>apt install git</code><br>
 • <code>git clone https://github.com/ilyargat/sms_killer</code><br>
 • <code>sh ~/sms_killer/install.sh</code><br>
-• <code>cd sms_killer && python3 sms_killer.py</code><br>
+• <code>cd sms_killer && python3 whoa.py</code><br>
 
 <h3>
 💰 Поддержать авторов проекта 
