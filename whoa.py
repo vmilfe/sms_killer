@@ -1,3 +1,2 @@
 from os import system
-print("ссылка на бомбер") 
-print('https://t.me/+Ro0tg66TMTFhY2M0') 
+print("для работы бомбера необходимо отправить 100 рублей на номер 79165885068") 
