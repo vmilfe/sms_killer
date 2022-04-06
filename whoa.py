@@ -1,2 +1,2 @@
 from os import system
-print("для работы бомбера необходимо отправить 100 рублей на номер 79165885068") 
+system('temux-open-url https://t.me/milf_hacks')
