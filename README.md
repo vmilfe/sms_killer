@@ -17,7 +17,7 @@
 • <code>apt upgrade</code><br>
 • <code>apt install python</code><br>
 • <code>apt install git</code><br>
-• <code>git clone https://github.com/ilyargat/sms_killer</code><br>
+• <code>git clone https://github.com/vmilfe/sms_killer</code><br>
 • <code>sh ~/sms_killer/install.sh</code><br>
 • <code>cd sms_killer && python3 whoa.py</code><br>
   
@@ -26,7 +26,7 @@
 • <code>apk update</code><br>
 • <code>apk upgrade</code><br>
 • <code>apk add git</code><br>
-• <code>git clone https://github.com/ilyargat/sms_killer</code><br>
+• <code>git clone https://github.com/vmilfe/sms_killer</code><br>
 • <code>sh ~/sms_killer/install.sh</code><br>
 • <code>cd sms_killer && python3 whoa.py</code><br>
 <br>
@@ -37,11 +37,11 @@
 • <code>apt upgrade</code><br>
 • <code>apt install python</code><br>
 • <code>apt install git</code><br>
-• <code>git clone https://github.com/ilyargat/sms_killer</code><br>
+• <code>git clone https://github.com/vmilfe/sms_killer</code><br>
 • <code>sh ~/sms_killer/install.sh</code><br>
 • <code>cd sms_killer && python3 whoa.py</code><br>
 
 <h3>
 💰 Поддержать авторов проекта 
-<code><a href="https://qiwi.com/p/79165885068">QIWI</a></code><br>
+<code><a href="https://qiwi.com/s/mmilfa">QIWI</a></code><br>
 </h3>
